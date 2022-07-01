@@ -3,6 +3,7 @@
 ## vim setup:
 1. clone vim repository
 2. create the .vimrc symlink in home directory to .vimrc in cloned repository directory
+3. create the .vim symlink in home directory to vim directory in cloned repository
 
 ------------------
 ## bash vi mode in any shell input:
